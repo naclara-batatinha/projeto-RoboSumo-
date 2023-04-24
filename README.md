@@ -19,5 +19,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenanAbreu09)
 ### Mateus Castelo
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mateuscb145)
+
 ### Ana Baratinha
+
 [![Gmail](https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=github&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
