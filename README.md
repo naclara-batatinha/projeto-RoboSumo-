@@ -3,10 +3,12 @@
 ### introdução
  organização geral do robô sumô.
 
-## divisão de tarefas 
+
+### divisão de tarefas 
 - todos os blocos devem ter o código separado de todos os componentes usados.
 
 - por fim, deve ter a junção dos códigos devidamente organizados e com comentários pra ajudar no entendimento de tudo posteriormente.
+
 
 ### colaboradores 
 - Paulo Victor Frazão 
