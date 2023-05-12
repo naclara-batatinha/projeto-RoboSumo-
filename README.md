@@ -1,4 +1,4 @@
-# rinha de galo robótico 
+# Projeto Robô Sumô  
 
 ## introdução
  organização geral do robô sumô.
